@@ -5,6 +5,6 @@
 - 🌱 I’m currently doing research on **LLM**/**3D**/**RL**. 
 - 🤔 I’m looking for collaborators in related research areas as well as computational resources
 - 💬 Welcome to communicate with me to discuss study, research, business and other related issues
-- 📫 How to reach me: [邮箱](jhb_pku@163.com) / [知乎](https://www.zhihu.com/people/o2lqwb)
+- 📫 How to reach me: [邮箱](mailto:jhb_pku@163.com) / [知乎](https://www.zhihu.com/people/o2lqwb)
 - 😄 Pronouns: He
 
